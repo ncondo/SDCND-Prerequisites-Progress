@@ -106,10 +106,10 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Statistics
 
-- [ ] Adequate Statistics Knowledge
-    - [ ] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-    - [ ] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-    - [ ] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [x] Adequate Statistics Knowledge
+    - [x] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+    - [x] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+    - [x] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [x] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Deep Learning
