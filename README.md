@@ -116,7 +116,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Machine Learning
 
-- [ ] Adequate Machine Learning Knowledge
+- [x] Adequate Machine Learning Knowledge
     - [x] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
     - [x] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
