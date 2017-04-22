@@ -140,7 +140,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Computer Vision
 
-- [ ] Adequate Computer Vision Knowledge
+- [x] Adequate Computer Vision Knowledge
     - [x] [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 - ### Robotics
@@ -152,7 +152,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### OpenCV
 
-- [ ] Adequate OpenCV Knowledge
+- [x] Adequate OpenCV Knowledge
     - [ ] [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&app=desktop)
 
 - ### TensorFlow
