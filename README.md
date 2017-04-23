@@ -153,7 +153,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### OpenCV
 
 - [x] Adequate OpenCV Knowledge
-    - [ ] [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&app=desktop)
+    - [x] [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&app=desktop)
 
 - ### TensorFlow
 
