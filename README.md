@@ -157,7 +157,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### TensorFlow
 
-- [ ] Adequate TensorFlow Knowledge
+- [x] Adequate TensorFlow Knowledge
     - [ ] [TensorFlow in a Nutshell](http://camron.xyz/index.php/2016/08/22/in_a_nutshell_part_one/)
     - [ ] [Google Developers - Machine Learning Recipes by TensorFlow](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
