@@ -123,12 +123,12 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Neural Networks
 
-- [ ] Adequate Neural Networks Knowledge
+- [x] Adequate Neural Networks Knowledge
     - [x] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
     - [x] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
     - [ ] [nvidia - Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
-    - [ ] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
-    - [ ] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
+    - [x] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
+    - [x] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
     - [ ] [Neural Networks and Deep Learning Book (free online)](http://neuralnetworksanddeeplearning.com/index.html)
     - [x] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
 
