@@ -164,7 +164,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 ## Physics
 
 - [ ] Adequate Physics Knowledge
-    - [ ] [The Nature of Code (Chapter 2)](http://natureofcode.com/book/chapter-2-forces/)
+    - [x] [The Nature of Code (Chapter 2)](http://natureofcode.com/book/chapter-2-forces/)
     - [x] [Khan Academy - Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
     - [ ] [Khan Academy - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
 
