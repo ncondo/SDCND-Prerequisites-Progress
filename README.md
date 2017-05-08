@@ -119,7 +119,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [x] Adequate Machine Learning Knowledge
     - [x] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
     - [x] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-    - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
+    - [x] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - ### Neural Networks
 
@@ -163,10 +163,10 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ## Physics
 
-- [ ] Adequate Physics Knowledge
+- [x] Adequate Physics Knowledge
     - [x] [The Nature of Code (Chapter 2)](http://natureofcode.com/book/chapter-2-forces/)
     - [x] [Khan Academy - Forces and Newton's Laws of Motion](https://www.khanacademy.org/science/physics/forces-newtons-laws)
-    - [ ] [Khan Academy - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
+    - [x] [Khan Academy - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)
 
 ## More
 
