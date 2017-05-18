@@ -192,7 +192,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [Blog post on running TensorFlow with Jupyter Notebook on AWS](http://navoshta.com/aws-tensorflow/)
 - [ ] [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow (written by DL4J)](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html#dl4j-vs-torch-vs-theano-vs-caffe-vs-tensorflow)
 - [ ] [Write an AI to win at Pong using reinforcement learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.oke1hwz6m)
-- [ ] [Implement VGG in TensorFlow](http://www.cs.toronto.edu/~frossard/post/vgg16/)
+- [x] [Implement VGG in TensorFlow](http://www.cs.toronto.edu/~frossard/post/vgg16/)
 - [ ] [How to build a robot that "sees" with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow)
 - [ ] [Learning a Driving Simulator](https://github.com/commaai/research/blob/master/paper/commalds.pdf)
 - [x] [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
